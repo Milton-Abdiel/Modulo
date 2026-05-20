@@ -56,15 +56,11 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Milton-Abdiel&show_icons=true&theme=radical&hide_border=true" 
-    height="180em"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Abdiel&layout=compact&theme=radical&hide_border=true" 
-    height="180em"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Milton-Abdiel&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Abdiel&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -72,12 +68,8 @@
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Milton-Abdiel&theme=radical&hide_border=true"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Milton-Abdiel&theme=github-dark-blue" />
 </p>
-
----
 
 ## 🌎 Perfil de GitHub
 
