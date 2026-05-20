@@ -5,14 +5,19 @@
   🚀 Aprendiendo y creando proyectos cada día
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+aprendizaje;Amante+de+la+tecnología;Creando+proyectos+increíbles" />
+</p>
+
 ---
 
 ## 🌟 Sobre mí
 
 - 📚 Actualmente aprendiendo desarrollo web
-- 💡 Interesado en tecnología y software
-- 🎯 Enfocado en mejorar mis habilidades como desarrollador
+- 💡 Interesado en programación y software
+- 🎯 Mejorando mis habilidades cada día
 - 🔥 Motivado por crear proyectos innovadores
+- 🚀 Explorando nuevas tecnologías
 
 ---
 
@@ -52,12 +57,12 @@
 
 <p align="center">
   <img 
-    src="https://www.magnific.com/es/fotos-vectores-gratis/dibujos-animados-tecnologia" 
+    src="https://github-readme-stats.vercel.app/api?username=Milton-Abdiel&show_icons=true&theme=radical&hide_border=true" 
     height="180em"
   />
-
+  
   <img 
-    src="https://www.magnific.com/es/fotos-vectores-gratis/dibujos-animados-tecnologia" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Abdiel&layout=compact&theme=radical&hide_border=true" 
     height="180em"
   />
 </p>
@@ -68,7 +73,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Milton-Abdiel&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Milton-Abdiel&theme=radical&hide_border=true"
   />
 </p>
 
@@ -78,8 +83,16 @@
 
 <p align="center">
   <a href="https://github.com/Milton-Abdiel">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🐍 Snake de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
