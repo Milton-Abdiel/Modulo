@@ -19,7 +19,31 @@
 ## 🚀 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" height="60"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+</a>
+
 </p>
 
 ---
@@ -27,9 +51,15 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milton-Abdiel&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Abdiel&layout=compact&theme=tokyonight" height="180em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Milton-Abdiel&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Abdiel&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 ---
@@ -37,16 +67,18 @@
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Milton-Abdiel&theme=tokyonight&hide_border=false" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Milton-Abdiel&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
-## 🌎 Conecta conmigo
+## 🌎 Perfil de GitHub
 
 <p align="center">
   <a href="https://github.com/Milton-Abdiel">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
