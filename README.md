@@ -52,12 +52,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Milton-Abdiel&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://www.magnific.com/es/fotos-vectores-gratis/dibujos-animados-tecnologia" 
     height="180em"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Abdiel&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://www.magnific.com/es/fotos-vectores-gratis/dibujos-animados-tecnologia" 
     height="180em"
   />
 </p>
