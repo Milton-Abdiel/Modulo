@@ -1,37 +1,48 @@
-<h1 align="center">✨ Bienvenido a mi perfil ✨</h1>
+<div align="center" style="
+  background: linear-gradient(135deg, #0f172a, #1e3a8a, #06b6d4);
+  padding: 35px;
+  border-radius: 20px;
+  border: 2px solid #38bdf8;
+  box-shadow: 0px 0px 25px rgba(0,247,255,0.5);
+  color: white;
+">
 
-<p align="center">
+<h1>✨ Bienvenido a mi perfil ✨</h1>
+
+<p>
   💻 Apasionado por la programación y la tecnología <br>
   🚀 Aprendiendo y creando proyectos cada día
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+aprendizaje;Amante+de+la+tecnología;Estándares+de+Software;Creando+proyectos+increíbles" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Desarrollador+en+aprendizaje;Amante+de+la+tecnología;Estándares+de+Software;Creando+proyectos+increíbles" />
+
+<br><br>
+
+<h2>🌐 Documentación y Estándares de Software</h2>
+
+<p>
+Bienvenido a este espacio dedicado al aprendizaje y desarrollo de software.
+Aquí encontrarás información relacionada con tecnologías modernas,
+herramientas de desarrollo y estándares internacionales utilizados
+en la documentación y construcción de software profesional.
 </p>
 
----
-
-# 🌐 Documentación y Estándares de Software
-
-Bienvenido a este espacio dedicado al aprendizaje y desarrollo de software.  
-Aquí encontrarás información relacionada con tecnologías modernas, herramientas de desarrollo y estándares internacionales utilizados en la documentación y construcción de software profesional.
-
-Los estándares permiten mantener calidad, organización, compatibilidad y buenas prácticas dentro de los proyectos tecnológicos.
+</div>
 
 ---
 
-## 📘 Estándares IEEE
+# 📘 Estándares IEEE
 
 Los estándares IEEE son ampliamente utilizados en ingeniería de software y documentación técnica.
 
-### 🔹 Principales estándares IEEE
+## 🔹 Principales estándares IEEE
 
 - 📄 IEEE 830 → Especificación de Requisitos de Software (SRS)
 - 🏗️ IEEE 1016 → Diseño de Software
 - 🧪 IEEE 829 → Documentación de pruebas
 - 🖥️ IEEE 1471 → Arquitectura de software
 
-### ✅ Importancia
+## ✅ Importancia
 
 - Mejor organización del proyecto
 - Documentación profesional
@@ -40,18 +51,18 @@ Los estándares IEEE son ampliamente utilizados en ingeniería de software y doc
 
 ---
 
-## 🌍 Estándares ISO
+# 🌍 Estándares ISO
 
 Las normas ISO garantizan calidad y seguridad en los procesos de desarrollo de software.
 
-### 🔹 Normas más utilizadas
+## 🔹 Normas más utilizadas
 
 - 📚 ISO/IEC 12207 → Ciclo de vida del software
 - ⭐ ISO/IEC 25010 → Calidad del software
 - 🔐 ISO/IEC 27001 → Seguridad de la información
 - 🏢 ISO 9001 → Gestión de calidad
 
-### ✅ Beneficios
+## ✅ Beneficios
 
 - Mayor confiabilidad
 - Seguridad informática
@@ -60,18 +71,18 @@ Las normas ISO garantizan calidad y seguridad en los procesos de desarrollo de s
 
 ---
 
-## 🌐 Estándares W3C
+# 🌐 Estándares W3C
 
 El W3C define estándares para el desarrollo web moderno.
 
-### 🔹 Tecnologías principales
+## 🔹 Tecnologías principales
 
 - 🌐 HTML5 → Estructura web
 - 🎨 CSS3 → Diseño y estilos
 - ⚡ JavaScript → Interactividad
 - ♿ WCAG → Accesibilidad web
 
-### ✅ Objetivos
+## ✅ Objetivos
 
 - Compatibilidad entre navegadores
 - Mejor accesibilidad
@@ -80,7 +91,7 @@ El W3C define estándares para el desarrollo web moderno.
 
 ---
 
-## 🌟 Sobre mí
+# 🌟 Sobre mí
 
 - 📚 Actualmente aprendiendo desarrollo web
 - 💡 Interesado en programación y software
@@ -91,7 +102,7 @@ El W3C define estándares para el desarrollo web moderno.
 
 ---
 
-## 🚀 Tecnologías y herramientas
+# 🚀 Tecnologías y herramientas
 
 <p align="center">
 
@@ -123,7 +134,7 @@ El W3C define estándares para el desarrollo web moderno.
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://res.cloudinary.com/dy8ddkvtx/image/upload/q_auto/f_auto/v1779463698/1_q0ofyz.png" />
@@ -135,7 +146,7 @@ El W3C define estándares para el desarrollo web moderno.
 
 ---
 
-## 🔥 Racha de contribuciones
+# 🔥 Racha de contribuciones
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Milton-Abdiel&theme=github-dark-blue" />
@@ -143,7 +154,7 @@ El W3C define estándares para el desarrollo web moderno.
 
 ---
 
-## 🌎 Perfil de GitHub
+# 🌎 Perfil de GitHub
 
 <p align="center">
   <a href="https://github.com/Milton-Abdiel">
@@ -153,7 +164,7 @@ El W3C define estándares para el desarrollo web moderno.
 
 ---
 
-## 🐍 Snake de contribuciones
+# 🐍 Snake de contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
