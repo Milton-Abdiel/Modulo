@@ -6,8 +6,77 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+aprendizaje;Amante+de+la+tecnología;Creando+proyectos+increíbles" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+aprendizaje;Amante+de+la+tecnología;Estándares+de+Software;Creando+proyectos+increíbles" />
 </p>
+
+---
+
+# 🌐 Documentación y Estándares de Software
+
+Bienvenido a este espacio dedicado al aprendizaje y desarrollo de software.  
+Aquí encontrarás información relacionada con tecnologías modernas, herramientas de desarrollo y estándares internacionales utilizados en la documentación y construcción de software profesional.
+
+Los estándares permiten mantener calidad, organización, compatibilidad y buenas prácticas dentro de los proyectos tecnológicos.
+
+---
+
+## 📘 Estándares IEEE
+
+Los estándares IEEE son ampliamente utilizados en ingeniería de software y documentación técnica.
+
+### 🔹 Principales estándares IEEE
+
+- 📄 IEEE 830 → Especificación de Requisitos de Software (SRS)
+- 🏗️ IEEE 1016 → Diseño de Software
+- 🧪 IEEE 829 → Documentación de pruebas
+- 🖥️ IEEE 1471 → Arquitectura de software
+
+### ✅ Importancia
+
+- Mejor organización del proyecto
+- Documentación profesional
+- Facilita mantenimiento y escalabilidad
+- Mejora comunicación entre desarrolladores
+
+---
+
+## 🌍 Estándares ISO
+
+Las normas ISO garantizan calidad y seguridad en los procesos de desarrollo de software.
+
+### 🔹 Normas más utilizadas
+
+- 📚 ISO/IEC 12207 → Ciclo de vida del software
+- ⭐ ISO/IEC 25010 → Calidad del software
+- 🔐 ISO/IEC 27001 → Seguridad de la información
+- 🏢 ISO 9001 → Gestión de calidad
+
+### ✅ Beneficios
+
+- Mayor confiabilidad
+- Seguridad informática
+- Software más eficiente
+- Procesos estandarizados
+
+---
+
+## 🌐 Estándares W3C
+
+El W3C define estándares para el desarrollo web moderno.
+
+### 🔹 Tecnologías principales
+
+- 🌐 HTML5 → Estructura web
+- 🎨 CSS3 → Diseño y estilos
+- ⚡ JavaScript → Interactividad
+- ♿ WCAG → Accesibilidad web
+
+### ✅ Objetivos
+
+- Compatibilidad entre navegadores
+- Mejor accesibilidad
+- Diseño web moderno
+- Buenas prácticas web
 
 ---
 
@@ -18,6 +87,7 @@
 - 🎯 Mejorando mis habilidades cada día
 - 🔥 Motivado por crear proyectos innovadores
 - 🚀 Explorando nuevas tecnologías
+- 🌐 Aprendiendo estándares internacionales de software
 
 ---
 
@@ -70,6 +140,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Milton-Abdiel&theme=github-dark-blue" />
 </p>
+
+---
 
 ## 🌎 Perfil de GitHub
 
