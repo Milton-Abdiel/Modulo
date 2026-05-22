@@ -56,11 +56,11 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Milton-Abdiel&show_icons=true&theme=github_dark" />
+  <img src="https://res.cloudinary.com/dy8ddkvtx/image/upload/q_auto/f_auto/v1779463698/1_q0ofyz.png" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Abdiel&layout=compact&theme=github_dark" />
+  <img src="https://res.cloudinary.com/dy8ddkvtx/image/upload/q_auto/f_auto/v1779463710/5_pzuobw.png" />
 </p>
 
 ---
