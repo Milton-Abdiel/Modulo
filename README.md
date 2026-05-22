@@ -1,20 +1,15 @@
-<div align="center" style="
-  background: linear-gradient(135deg, #0f172a, #1e3a8a, #06b6d4);
-  padding: 35px;
-  border-radius: 20px;
-  border: 2px solid #38bdf8;
-  box-shadow: 0px 0px 25px rgba(0,247,255,0.5);
-  color: white;
-">
+<table align="center">
+<tr>
+<td align="center" width="900" height="320" bgcolor="#0F172A">
 
 <h1>✨ Bienvenido a mi perfil ✨</h1>
 
 <p>
-  💻 Apasionado por la programación y la tecnología <br>
-  🚀 Aprendiendo y creando proyectos cada día
+💻 Apasionado por la programación y la tecnología <br>
+🚀 Aprendiendo y creando proyectos cada día
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Desarrollador+en+aprendizaje;Amante+de+la+tecnología;Estándares+de+Software;Creando+proyectos+increíbles" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Desarrollador+en+aprendizaje;Amante+de+la+tecnología;Estándares+de+Software;Creando+proyectos+increíbles" />
 
 <br><br>
 
@@ -27,7 +22,9 @@ herramientas de desarrollo y estándares internacionales utilizados
 en la documentación y construcción de software profesional.
 </p>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -173,5 +170,5 @@ El W3C define estándares para el desarrollo web moderno.
 ---
 
 <p align="center">
-  ✨ Gracias por visitar mi perfil ✨
+✨ Gracias por visitar mi perfil ✨
 </p>
